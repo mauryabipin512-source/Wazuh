@@ -16,4 +16,4 @@ This project demonstrates the installation and  working of Wazuh SIEM
 ## Step 1: Download virtualbox
 - Go to this sit
 - https://www.virtualbox.org/wiki/Downloads
-- 
+  
